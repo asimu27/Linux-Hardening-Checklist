@@ -2,4 +2,4 @@
 Securing Linux with some of the best practices
 
 
-To start please go to the [Wiki](https://www.github.com/asimu27/Linux-Hardening-Checklist/wiki
+To start please go to the [Wiki](/wiki)
